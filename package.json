@@ -1,0 +1,31 @@
+{
+  "name": "-latest",
+  "private": true,
+  "version": "0.0.0",
+  "type": "commonjs",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "vite": "^5.2.0"
+  },
+  "main": "index.js",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "cors": "^2.8.5",
+    "esbuild": "^0.20.2",
+    "express": "^4.19.2",
+    "nanoid": "^3.3.7",
+    "pg": "^8.11.5",
+    "picocolors": "^1.0.0",
+    "postcss": "^8.4.38",
+    "rollup": "^4.14.3",
+    "source-map-js": "^1.2.0"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
